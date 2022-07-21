@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e849a49df2fe9b44aa279fa1b502b3f, type: 3}
+  m_Name: Mallet
+  m_EditorClassIdentifier: 
+  databaseReferences:
+  - database: {fileID: 11400000, guid: 53673dcce17297f44a380899ccc67f15, type: 2}
+    tier:
+      name: Common
+      tierRange:
+        <Min>k__BackingField: 0
+        <Max>k__BackingField: 2147483647
+      referencedItems:
+      - {fileID: 0}
+      - {fileID: 11400000, guid: 0241a37ac5817754dad559936c010bf6, type: 2}
+      - {fileID: 11400000, guid: 715358a84468f19419c26238cfb4ff2b, type: 2}
+      - {fileID: 11400000, guid: 9dc44040bb78ced4aad91bb010c45f43, type: 2}
+      - {fileID: 11400000, guid: 1b8401beec6f5614ba5c7aca55e7d890, type: 2}
+      - {fileID: 11400000, guid: 0241a37ac5817754dad559936c010bf6, type: 2}
+      - {fileID: 11400000, guid: f6f9c178be1179a44a0a57ebe20bda19, type: 2}
+      - {fileID: 11400000, guid: 3d305b6aec72ac448ad74f742f275f99, type: 2}
+      - {fileID: 11400000, guid: b7c4c16f15cce76478175b3f69ff5523, type: 2}
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: f6f9c178be1179a44a0a57ebe20bda19, type: 2}
+      - {fileID: 11400000, guid: dd2dd7258f49a8843a986d9c5f9dba54, type: 2}
+  Prefab: {fileID: 7143382816605574403, guid: aeff7570c803d11469af9163fe1e6259, type: 3}

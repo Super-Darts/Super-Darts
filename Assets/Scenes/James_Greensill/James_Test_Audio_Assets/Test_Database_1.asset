@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19adf1b665521694b995924a67746c11, type: 3}
+  m_Name: Test_Database_1
+  m_EditorClassIdentifier: 
+  sounds:
+  - clipName: T1
+    clip: {fileID: 8300000, guid: c4a7e47d330266d4d8dcac6fbca1fd09, type: 3}
+    settings:
+      type: 0
+      mixerGroup: {fileID: 0}
+  - clipName: T2
+    clip: {fileID: 8300000, guid: 22e0803f46463e04784f2746f9837a5f, type: 3}
+    settings:
+      type: 1
+      mixerGroup: {fileID: 0}
+  - clipName: T3
+    clip: {fileID: 8300000, guid: a0d3fa4b7312312409fa4ef09cdeb133, type: 3}
+    settings:
+      type: 1
+      mixerGroup: {fileID: 0}

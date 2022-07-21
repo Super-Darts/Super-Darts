@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ce0909a6fd35af4b880f7f191669b6a, type: 3}
+  m_Name: L4YDatabase8
+  m_EditorClassIdentifier: 
+  <SpeedRange>k__BackingField:
+    <Min>k__BackingField: 1.5
+    <Max>k__BackingField: 1.5
+  <SwitchRateRange>k__BackingField:
+    <Min>k__BackingField: 0.1
+    <Max>k__BackingField: 0.1
+  <Paths>k__BackingField:
+  - {fileID: 11400000, guid: 5b981b56509f2ba4d92511f69ec377f5, type: 2}

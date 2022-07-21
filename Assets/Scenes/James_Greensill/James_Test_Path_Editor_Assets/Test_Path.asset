@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43ff118041d0e3c45b3691b3018b603b, type: 3}
+  m_Name: Test_Path
+  m_EditorClassIdentifier: 
+  pathName: Enter name here...
+  <Path>k__BackingField:
+  - {x: -90, y: 0, z: -100}
+  - {x: 0, y: 9.911096, z: 0}
+  - {x: 0, y: 8.277573, z: -14.355761}
+  - {x: 6.665839, y: -0.113059096, z: -14.375813}
+  - {x: -36.340736, y: -19.216114, z: -13.484126}
+  - {x: 16.705719, y: 8.064165, z: -3.517277}
+  - {x: 10.289553, y: 0.45108452, z: 4.887636}
+  <Loop>k__BackingField: 0

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4435028c678ab2a43b5f5d39d4641111, type: 3}
+  m_Name: DB
+  m_EditorClassIdentifier: 
+  tiers:
+  - name: Common
+    tierRange:
+      <Min>k__BackingField: 0
+      <Max>k__BackingField: 10
+    referencedItems:
+    - {fileID: 11400000, guid: 660e9df5870dc1d4fb51124900fbe6a8, type: 2}
+    - {fileID: 11400000, guid: d9e332eca5873c14694c5f7b3d0c5b27, type: 2}
+    - {fileID: 11400000, guid: e6001667d0ad56743868cbc3d7ed1bfd, type: 2}
+  - name: Rare
+    tierRange:
+      <Min>k__BackingField: 10
+      <Max>k__BackingField: 20
+    referencedItems:
+    - {fileID: 11400000, guid: 36d52a5cf64fe874db4014da7874e7da, type: 2}
+    - {fileID: 11400000, guid: 05df79132d41f8c4bb8ff40ce471be4c, type: 2}
+  - name: Epic
+    tierRange:
+      <Min>k__BackingField: 20
+      <Max>k__BackingField: 30
+    referencedItems:
+    - {fileID: 11400000, guid: 4cd63a6863de2424182930339b5256b3, type: 2}
+    - {fileID: 11400000, guid: abf9a43dab705fa48a1885b9f9bff63f, type: 2}
+  lootItems:
+  - {fileID: 11400000, guid: 660e9df5870dc1d4fb51124900fbe6a8, type: 2}
+  - {fileID: 11400000, guid: 36d52a5cf64fe874db4014da7874e7da, type: 2}
+  - {fileID: 11400000, guid: 4cd63a6863de2424182930339b5256b3, type: 2}
+  - {fileID: 11400000, guid: d9e332eca5873c14694c5f7b3d0c5b27, type: 2}
+  - {fileID: 11400000, guid: 05df79132d41f8c4bb8ff40ce471be4c, type: 2}
+  - {fileID: 11400000, guid: abf9a43dab705fa48a1885b9f9bff63f, type: 2}
+  - {fileID: 11400000, guid: e6001667d0ad56743868cbc3d7ed1bfd, type: 2}

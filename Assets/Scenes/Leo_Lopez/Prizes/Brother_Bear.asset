@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e849a49df2fe9b44aa279fa1b502b3f, type: 3}
+  m_Name: Brother_Bear
+  m_EditorClassIdentifier: 
+  databaseReferences:
+  - database: {fileID: 11400000, guid: 53673dcce17297f44a380899ccc67f15, type: 2}
+    tier:
+      name: Common
+      tierRange:
+        <Min>k__BackingField: 0
+        <Max>k__BackingField: 2147483647
+      referencedItems:
+      - {fileID: 0}
+      - {fileID: 11400000, guid: 0241a37ac5817754dad559936c010bf6, type: 2}
+      - {fileID: 11400000}
+      - {fileID: 11400000, guid: 9dc44040bb78ced4aad91bb010c45f43, type: 2}
+      - {fileID: 11400000, guid: 1b8401beec6f5614ba5c7aca55e7d890, type: 2}
+      - {fileID: 11400000, guid: 0241a37ac5817754dad559936c010bf6, type: 2}
+  - database: {fileID: 11400000, guid: d33e2f5e23c8645499fe519b57b6b5c3, type: 2}
+    tier:
+      name: 
+      tierRange:
+        <Min>k__BackingField: 0
+        <Max>k__BackingField: 0
+      referencedItems: []
+  Prefab: {fileID: 1826472553129565155, guid: c2774a96ea8e9ca42b3e0e79c5fcce3e, type: 3}

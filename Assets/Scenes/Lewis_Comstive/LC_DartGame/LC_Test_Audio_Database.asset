@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19adf1b665521694b995924a67746c11, type: 3}
+  m_Name: LC_Test_Audio_Database
+  m_EditorClassIdentifier: 
+  sounds:
+  - clipName: Dart Fwoosh
+    clip: {fileID: 8300000, guid: 79e7f7c5b009655439947efad8d235b8, type: 3}
+    settings:
+      type: 0
+      mixerGroup: {fileID: -6548297080630263300, guid: 1d4e3f19e2641d342a838125ca146861,
+        type: 2}
+  - clipName: Balloon Pop 1
+    clip: {fileID: 8300000, guid: 8fd9c58aedbc18044ab5654517b75cab, type: 3}
+    settings:
+      type: 0
+      mixerGroup: {fileID: 1181046647769192913, guid: 1d4e3f19e2641d342a838125ca146861,
+        type: 2}
+  - clipName: Balloon Pop 2
+    clip: {fileID: 8300000, guid: edf863c75c25f514a9a44ea40b0de943, type: 3}
+    settings:
+      type: 0
+      mixerGroup: {fileID: 1181046647769192913, guid: 1d4e3f19e2641d342a838125ca146861,
+        type: 2}
+  - clipName: Carnival Music
+    clip: {fileID: 0}
+    settings:
+      type: 1
+      mixerGroup: {fileID: -3909416026586748189, guid: 1d4e3f19e2641d342a838125ca146861,
+        type: 2}
+  - clipName: Dart Grabbing
+    clip: {fileID: 8300000, guid: b08f8d5a79100f84d85f7ed1272631ba, type: 3}
+    settings:
+      type: 0
+      mixerGroup: {fileID: -6548297080630263300, guid: 1d4e3f19e2641d342a838125ca146861,
+        type: 2}
+  - clipName: Button Click
+    clip: {fileID: 8300000, guid: a6ddef9e7692a7a4e8cb9e2e0d222e32, type: 3}
+    settings:
+      type: 0
+      mixerGroup: {fileID: -1762186934875705474, guid: 1d4e3f19e2641d342a838125ca146861,
+        type: 2}
